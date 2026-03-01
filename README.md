@@ -24,33 +24,33 @@ Vista de alto nivel para la gerencia. Permite evaluar la salud financiera genera
 * *Métricas clave:* Margen Bruto, Ingresos Totales, % de Margen y Costo Total.
 * Incluye la evolución histórica del margen y una distribución geográfica de la rentabilidad a nivel nacional e internacional.
 
-
+<img width="1283" height="719" alt="image" src="https://github.com/user-attachments/assets/ea232585-100a-40ce-ab3f-a61e1f405945" />
 
 ### 2. Análisis de Rentabilidad por Producto
 Diseñado para el equipo de compras y producto, enfocándose en qué estamos vendiendo y cuánto nos deja.
 * Permite identificar rápidamente las categorías estrella.
 * Incluye un gráfico de dispersión (Scatter Plot) que correlaciona las unidades vendidas con el porcentaje de margen, permitiendo identificar productos de "alto esfuerzo y baja ganancia".
 
-[ARRASTRA Y SUELTA AQUÍ LA IMAGEN: image_f5b7c7.png]
+<img width="1278" height="718" alt="image" src="https://github.com/user-attachments/assets/91b14bb1-8b44-4da4-8342-2676dc79627b" />
 
 ### 3. Desempeño de la Fuerza de Ventas
 Evalúa a los ejecutivos comerciales no solo por cuánto venden, sino por la calidad de su venta.
 * *Métricas clave:* Ticket Promedio y Margen Bruto generado por vendedor.
 * Permite visualizar el "mix de productos" que vende cada ejecutivo y cómo esto impacta en su rentabilidad final.
 
-[ARRASTRA Y SUELTA AQUÍ LA IMAGEN: image_f5b7e0.jpg]
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/7e1e63de-bdd6-49bf-9bc6-76694f204331" />
 
 ### 4. Análisis de Clientes y Mercados Estratégicos
 Vista orientada al equipo de marketing comercial para entender dónde está concentrado el valor.
 * Cruza la información del cliente con su industria y región.
 * Permite segmentar por canales de adquisición (ej. E-commerce vs. Venta corporativa) y tamaño de la empresa.
 
-[ARRASTRA Y SUELTA AQUÍ LA IMAGEN: image_f5b7e4.jpg]
+<img width="1278" height="718" alt="image" src="https://github.com/user-attachments/assets/147ff75a-2441-491e-81e7-57b640baf501" />
 
 ### 5. Explorador de Detalles (Drillthrough)
 Una tabla granular a nivel de registro que sirve como herramienta de auditoría para analizar transacciones individuales, fechas exactas y vendedores involucrados.
 
-[ARRASTRA Y SUELTA AQUÍ LA IMAGEN: image_f5b7ff.jpg]
+<img width="1278" height="721" alt="image" src="https://github.com/user-attachments/assets/0aa29b68-59cf-49c1-94a3-b58e06a27258" />
 
 ---
 Proyecto desarrollado como portafolio personal para demostrar habilidades en análisis de datos, modelado relacional y visualización.
