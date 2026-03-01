@@ -16,7 +16,8 @@ Se construyó un modelo robusto de 10 tablas estructurado en esquema de copo de 
 * *1 Tabla de Hechos:* Hechos_Ordenes (almacena transacciones, precios, costos y cantidades).
 * *9 Tablas de Dimensiones principales y sub-dimensiones:* Calendario, Clientes, Productos, Vendedores, Canal de Venta, Industrias, 
 ---
-
+<img width="1212" height="744" alt="image" src="https://github.com/user-attachments/assets/816e4071-99a3-4dbe-865e-a53f5753bb2e" />
+---
 ## 🚀 Páginas del Dashboard y Hallazgos
 
 ### 1. Resumen Ejecutivo de Rentabilidad
